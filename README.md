@@ -1,5 +1,7 @@
 # Tic Tac Toe Game
 
+Testing out the vibe coding workflow with cursor and grok
+
 A modern, interactive Tic Tac Toe game built with React, TypeScript, and styled-components. Features include:
 
 - Sleek, modern UI with smooth animations
